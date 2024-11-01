@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[OrderCart].[OrderId] is being dropped, data loss could occur.
+       The column [dbo].[Returns].[ReturnedProduct] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[OrderCart] (Table)
+       [dbo].[Returns] (Table)
+
+** Supporting actions
+
+The column [dbo].[OrderCart].[OrderId] is being dropped, data loss could occur.
+The column [dbo].[Returns].[ReturnedProduct] is being dropped, data loss could occur.
+

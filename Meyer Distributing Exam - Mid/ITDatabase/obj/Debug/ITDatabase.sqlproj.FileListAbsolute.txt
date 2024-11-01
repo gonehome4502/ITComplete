@@ -1,0 +1,10 @@
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\bin\Debug\ITDatabase.dacpac
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\bin\Debug\ITDatabase.dll
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\bin\Debug\ITDatabase.pdb
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\ITDatabase.sqlproj.AssemblyReference.cache
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\ITDatabase.dll
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\ITDatabase.pdb
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\Model.xml
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\refactor.xml
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\postdeploy.sql
+C:\Users\travi\Documents\Meyer Distributing Exam - Mid\ITDatabase\obj\Debug\predeploy.sql
